@@ -1,0 +1,6 @@
+{
+  "name": "Wearable Code",
+  "tagline": "Arduino sketch for Morse code blinking wearable",
+  "body": "### About\r\n\r\nWearable Code is a project based on an [Adafruit Gemma](https://www.adafruit.com/product/1222) board, a single [Neo Pixel](https://www.adafruit.com/products/1260), and a tact switch. Full instructions can be found on Instructables at [http://www.instructables.com/id/Wearable-Code/](http://www.instructables.com/id/Wearable-Code/)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
